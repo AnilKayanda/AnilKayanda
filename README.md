@@ -1,21 +1,12 @@
-< h1 hizalama = "merkez" > Hi 👋, ben Anıl < / h1 >
-< h3 align = "center" > Hindistan'dan tutkulu bir ön uç geliştiricisi < / h3 >
+# 💫 About Me:
+Hi, My name is Anil.
 
-- 🔭 Şu anda [ticaret] üzerinde çalışıyorum (https://github.com/AnilKayanda/ecommerce)
 
-- 🌱 Şu anda öğreniyorum ** React**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anilkayanda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anilkayanda) 
 
-- ⁇ ⁇ Tüm projelerim [https://github.com/AnilKayanda?tab=repositories](https://github.com/AnilKayanda?tab=repositories)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-- 📫 Bana nasıl ulaşılır ** anilkayanda@gmail.com**
 
-< h3 hizalama = "sol" > Benimle bağlantı kurun: < / h3 >
-< p hizalama = "sol" >
-< a href = "https://twitter.com/anilkayanda" hedef =" boşluk "> < img hizalama =" merkez "src =" https://raw.githubusercontent.com / rahuldkjain / github-profil-okuma-jeneratör / master / src / images / icons / Social / twitter.svg "alt =" anilkayanda "yükseklik =" 40 / = >
-< a href = "https://instagram.com/anilkayanda" hedef =" boşluk > < img hizalama = "merkez" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"" yükseklik = "30" genişlik = " /
-< / p >
-
-< h3 hizalama = "sol" > Diller ve Araçlar: < / h3 >
-< p hizalama = "sol" > < a href = "https://getbootstrap.com" hedef =" _ blank "rel =" noreferrer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt =" bootstrap "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < a href = "https://www.w3schools.com/css/" hedef =" _ blank "rel =" noreferrer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt =" css3 "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < a href = "https://www.w3.org/html/" hedef =" _ blank "rel =" noreferrer "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt =" html5 "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < a href = "https://www.java.com" hedef =" _ blank "rel =" noreferrer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt =" java "genişliği =" 40 "yükseklik =" 40 "/ > < / a > < a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" hedef =" _ blank "rel =" noreferrer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt =" javascript"genişlik = "40" yükseklik = "40" / > < / a > < a href = "https://www.mysql.com/" hedef =" _ blank "rel =" noreferrer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt =" mysql "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < a href = "https://www.php.net" hedef =" _ blank "rel =" noreferrer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt =" php "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < a href = "https://reactjs.org/" hedef =" _ blank "rel =" noreferrer ">< img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt =" reaksiyon "genişliği =" 40 "yükseklik =" 40 "/ > < / a > < a href = "https://tailwindcss.com/" hedef =" _ blank "rel =" noreferrer "> < img src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt =" kuyruk rüzgarı "genişliği =" 40 "yükseklik =" 40 "/ > < / a > < / p >_blank "rel =" noreferrer "> < img src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt =" kuyruk rüzgarı "genişliği =" 40 "yükseklik =" 40 "/ > < / a > < / p >_blank "rel =" noreferrer "> < img src = "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt =" kuyruk rüzgarı "genişliği =" 40 "yükseklik =" 40 "/ > < / a > < / p >
-
-< p > < img hizalama = "merkez" src = "https://github-readme-stats.vercel.app/api/top-langs?username=anilkayanda&show_icons=true&locale=en&layout=compact" alt =" anilkayanda "/ > < / p >
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
